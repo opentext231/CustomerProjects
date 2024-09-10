@@ -9,7 +9,7 @@
 	<Description>OrderManagement</Description>
 	<CreatedBy>cn=otadmin@otds.admin,cn=organizational users,o=system,cn=cordys,cn=AWP242Inst,o=opentext.net</CreatedBy>
 	<CreationDate>2024-09-05T06:13:45.921</CreationDate>
-	<Notes></Notes>
+	<Notes/>
 	<NamespacePrefix></NamespacePrefix>
 	<Configurations/>
 	<ISVPackageInfo>
@@ -22,7 +22,7 @@
 			<Description>ACME OrderManagement</Description>
 			<CreatedBy>cn=otadmin@otds.admin,cn=organizational users,o=system,cn=cordys,cn=AWP242Inst,o=opentext.net</CreatedBy>
 			<CreationDate>2024-09-05T06:13:45.923</CreationDate>
-			<Notes></Notes>
+			<Notes/>
 			<BuildNumber>0</BuildNumber>
 			<GenerateModelPackage>false</GenerateModelPackage>
 			<ISVPackageFileName>ACME OrderManagement 1.0.0</ISVPackageFileName>
@@ -43,7 +43,7 @@
 	<RuntimeQualifiedName/>
 	<SourceFolder>
 		<uri
-			id="28DFEB6B-98A5-A1EF-9AD3-80510A0F89EC"
+			id="0242ac13-0003-a1ef-9bd0-f635161817fd"
 			path="OrderManagement"
 			type="com.cordys.cws.runtime.types.folder.StudioFolder"
 		/>
@@ -55,10 +55,10 @@
 			RuntimeDocumentID="28DFEB6B-98A5-A1EF-9AD3-80510A0DC9EC">
 			<DocumentID>28DFEB6B-98A5-A1EF-9AD3-80510A0D89EC</DocumentID>
 			<Name>TranslationInformation</Name>
-			<Description></Description>
+			<Description/>
 			<CreatedBy>cn=otadmin@otds.admin,cn=organizational users,o=system,cn=cordys,cn=AWP242Inst,o=opentext.net</CreatedBy>
 			<CreationDate>2024-09-05T06:13:45.922</CreationDate>
-			<Notes></Notes>
+			<Notes/>
 			<LanguagePacks>
 				<LanguagePack
 					type="com.cordys.translation.LanguagePack"
@@ -66,10 +66,10 @@
 					RuntimeDocumentID="28DFEB6B-98A5-A1EF-9AD3-80510A0EC9EC">
 					<DocumentID>28DFEB6B-98A5-A1EF-9AD3-80510A0E89EC</DocumentID>
 					<Name>en-US</Name>
-					<Description></Description>
+					<Description/>
 					<CreatedBy>cn=otadmin@otds.admin,cn=organizational users,o=system,cn=cordys,cn=AWP242Inst,o=opentext.net</CreatedBy>
 					<CreationDate>2024-09-05T06:13:45.922</CreationDate>
-					<Notes></Notes>
+					<Notes/>
 					<Language>English - United States</Language>
 					<Texts>
 						<uri
