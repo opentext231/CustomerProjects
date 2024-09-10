@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="ECF4BB0E-B87F-A1E9-8C0F-A3718F79E50C">
+	<DocumentID>ECF4BB0E-B87F-A1E9-8C0F-A3718F79A50C</DocumentID>
+	<Name>ECF4BB0E-B87F-A1E9-8C0F-A3718F79A50C</Name>
+	<Description>Premium Amount</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2019-02-14T09:57:27.828</CreationDate>
+	<Notes/>
+	<Text>Premium Amount</Text>
+	<Language>
+		<uri
+			id="ECF4BB0E-B87F-A1E9-8BB1-AF99C645650C"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="ECF4BB0E-B87F-A1E9-8C0F-A3718F79250C"
+		/>
+	</TextIdentifier>
+</TranslatedText>

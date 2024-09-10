@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="ECF4BB0E-B87F-A1E9-8C10-1D63DD45650C">
+	<DocumentID>ECF4BB0E-B87F-A1E9-8C10-1D63DD45250C</DocumentID>
+	<Name>ECF4BB0E-B87F-A1E9-8C10-1D63DD45250C</Name>
+	<Description>PremiumPaymentLayout</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2019-02-14T10:09:03.141</CreationDate>
+	<Notes/>
+	<DefaultText>PremiumPaymentLayout</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="ECF4BB0E-B87F-A1E9-8BB1-AF99C644650C"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="ECF4BB0E-B87F-A1E9-8C10-1D63DD45A50C"
+		/>
+	</Translations>
+</TextIdentifier>

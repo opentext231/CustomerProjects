@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="28DFEB6B-98A5-A1EF-9AD3-80510A3EC9EC">
+	<DocumentID>28DFEB6B-98A5-A1EF-9AD3-80510A3E89EC</DocumentID>
+	<Name>28DFEB6B-98A5-A1EF-9AD3-80510A3E89EC</Name>
+	<Description>Order amount</Description>
+	<CreatedBy>cn=otadmin@otds.admin,cn=organizational users,o=system,cn=cordys,cn=AWP242Inst,o=opentext.net</CreatedBy>
+	<CreationDate>2024-09-05T06:15:31.326</CreationDate>
+	<Notes></Notes>
+	<DefaultText>Order amount</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="28DFEB6B-98A5-A1EF-9AD3-80510A0D89EC"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="28DFEB6B-98A5-A1EF-9AD3-80510A3F09EC"
+		/>
+	</Translations>
+</TextIdentifier>

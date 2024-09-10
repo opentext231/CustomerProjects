@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="98FA9BBD-851C-A1EC-939A-C2BBC6C519A1">
+	<DocumentID>98FA9BBD-851C-A1EC-939A-C2BBC6C4D9A1</DocumentID>
+	<Name>98FA9BBD-851C-A1EC-939A-C2BBC6C4D9A1</Name>
+	<Description>Policy Management</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-11-26T03:44:07.041</CreationDate>
+	<Notes/>
+	<Text>Policy Management</Text>
+	<Language>
+		<uri
+			id="ECF4BB0E-B87F-A1E9-8BB1-AF99C645650C"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="98FA9BBD-851C-A1EC-939A-C2BBC6C459A1"
+		/>
+	</TextIdentifier>
+</TranslatedText>

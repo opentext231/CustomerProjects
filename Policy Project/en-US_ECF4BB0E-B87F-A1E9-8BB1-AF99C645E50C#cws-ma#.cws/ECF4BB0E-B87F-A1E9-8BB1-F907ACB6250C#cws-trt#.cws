@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="ECF4BB0E-B87F-A1E9-8BB1-F907ACB6650C">
+	<DocumentID>ECF4BB0E-B87F-A1E9-8BB1-F907ACB6250C</DocumentID>
+	<Name>ECF4BB0E-B87F-A1E9-8BB1-F907ACB6250C</Name>
+	<Description>Policy Type Code</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2019-02-12T13:14:14.602</CreationDate>
+	<Notes/>
+	<Text>Policy Type Code</Text>
+	<Language>
+		<uri
+			id="ECF4BB0E-B87F-A1E9-8BB1-AF99C645650C"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="ECF4BB0E-B87F-A1E9-8BB1-F907ACB5A50C"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,22 @@
+
+<RoleDesignTime
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.organization.role.RoleDesignTime"
+	typeVersion="0242a425-d150-11e7-e026-4d289331252b"
+	RuntimeDocumentID="ECF4BB0E-B87F-A1E9-8BB3-8AF8EC44A50C">
+	<DocumentID>ECF4BB0E-B87F-A1E9-8BB3-8AF8EC44650C</DocumentID>
+	<Name>Policy Administrator</Name>
+	<Description>Policy Administrator</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2019-02-12T13:58:25.916</CreationDate>
+	<Notes/>
+	<DistinguishedName>cn=#roleName#, cn=#ISVPName#, #LDAPRoot#</DistinguishedName>
+	<type>Functional</type>
+	<Subroles>
+		<uri
+			id="ECF4BB0E-B87F-A1E9-8BB3-9C7174FC250C"
+		/>
+	</Subroles>
+	<Superroles/>
+	<configuredTasks/>
+</RoleDesignTime>

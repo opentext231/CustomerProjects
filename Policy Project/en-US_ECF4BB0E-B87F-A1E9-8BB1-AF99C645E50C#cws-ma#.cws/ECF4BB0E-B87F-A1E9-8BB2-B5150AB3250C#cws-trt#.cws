@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="ECF4BB0E-B87F-A1E9-8BB2-B5150AB3650C">
+	<DocumentID>ECF4BB0E-B87F-A1E9-8BB2-B5150AB3250C</DocumentID>
+	<Name>ECF4BB0E-B87F-A1E9-8BB2-B5150AB3250C</Name>
+	<Description>MAX Online</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2019-02-12T13:39:28.79</CreationDate>
+	<Notes/>
+	<Text>MAX Online</Text>
+	<Language>
+		<uri
+			id="ECF4BB0E-B87F-A1E9-8BB1-AF99C645650C"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="ECF4BB0E-B87F-A1E9-8BB2-B5150AB2A50C"
+		/>
+	</TextIdentifier>
+</TranslatedText>

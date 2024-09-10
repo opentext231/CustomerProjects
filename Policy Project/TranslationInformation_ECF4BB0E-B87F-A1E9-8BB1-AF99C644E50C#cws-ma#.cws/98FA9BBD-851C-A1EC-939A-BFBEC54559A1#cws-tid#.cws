@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="98FA9BBD-851C-A1EC-939A-BFBEC54599A1">
+	<DocumentID>98FA9BBD-851C-A1EC-939A-BFBEC54559A1</DocumentID>
+	<Name>98FA9BBD-851C-A1EC-939A-BFBEC54559A1</Name>
+	<Description>MAX Online Policy</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2021-11-26T03:43:38.253</CreationDate>
+	<Notes/>
+	<DefaultText>MAX Online Policy</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="ECF4BB0E-B87F-A1E9-8BB1-AF99C644650C"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="98FA9BBD-851C-A1EC-939A-BFBEC545D9A1"
+		/>
+	</Translations>
+</TextIdentifier>

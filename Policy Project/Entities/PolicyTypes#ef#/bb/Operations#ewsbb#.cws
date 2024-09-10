@@ -1,0 +1,89 @@
+
+<EntityWebServicesBuildingBlock
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.webservices.EntityWebServicesBuildingBlock"
+	typeVersion="8D86B054-F133-428B-8211-187822A0B501"
+	RuntimeDocumentID="ECF4BB0E-B87F-A1E9-8BB3-71D4C336A50C">
+	<DocumentID>ECF4BB0E-B87F-A1E9-8BB3-71D4C336650C</DocumentID>
+	<Name>Operations</Name>
+	<Description>Webservice Operations</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2019-02-12T13:57:52.297</CreationDate>
+	<Notes/>
+	<CreateOperation>
+		<EntityWebServiceCreateOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceCreateOperation"
+			RuntimeDocumentID="ECF4BB0E-B87F-A1E9-8BB3-71D4C335E50C">
+			<DocumentID>ECF4BB0E-B87F-A1E9-8BB3-71D4C335A50C</DocumentID>
+			<Name>CreatePolicyTypes</Name>
+			<Description>Create PolicyTypes</Description>
+			<CreatedBy>sysadmin</CreatedBy>
+			<CreationDate>2019-02-12T13:57:52.296</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="ECF4BB0E-B87F-A1E9-8BB1-BF265928E50C"
+				/>
+			</Entity>
+		</EntityWebServiceCreateOperation>
+	</CreateOperation>
+	<DeleteOperation>
+		<EntityWebServiceDeleteOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceDeleteOperation"
+			RuntimeDocumentID="ECF4BB0E-B87F-A1E9-8BB3-71D4C334650C">
+			<DocumentID>ECF4BB0E-B87F-A1E9-8BB3-8AF8EC46A50C</DocumentID>
+			<Name>DeletePolicyTypes</Name>
+			<Description>Delete PolicyTypes</Description>
+			<CreatedBy>sysadmin</CreatedBy>
+			<CreationDate>2019-02-12T13:57:52.297</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="ECF4BB0E-B87F-A1E9-8BB1-BF265928E50C"
+				/>
+			</Entity>
+		</EntityWebServiceDeleteOperation>
+	</DeleteOperation>
+	<Entity>
+		<uri
+			id="ECF4BB0E-B87F-A1E9-8BB1-BF265928E50C"
+		/>
+	</Entity>
+	<FindOperations/>
+	<Original/>
+	<ReadOperation>
+		<EntityWebServiceReadOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceReadOperation"
+			RuntimeDocumentID="ECF4BB0E-B87F-A1E9-8BB3-71D4C335650C">
+			<DocumentID>ECF4BB0E-B87F-A1E9-8BB3-71D4C335250C</DocumentID>
+			<Name>ReadPolicyTypes</Name>
+			<Description>Read PolicyTypes</Description>
+			<CreatedBy>sysadmin</CreatedBy>
+			<CreationDate>2019-02-12T13:57:52.297</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="ECF4BB0E-B87F-A1E9-8BB1-BF265928E50C"
+				/>
+			</Entity>
+		</EntityWebServiceReadOperation>
+	</ReadOperation>
+	<RelationshipOperations/>
+	<UpdateOperation>
+		<EntityWebServiceUpdateOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceUpdateOperation"
+			RuntimeDocumentID="ECF4BB0E-B87F-A1E9-8BB3-71D4C334E50C">
+			<DocumentID>ECF4BB0E-B87F-A1E9-8BB3-71D4C334A50C</DocumentID>
+			<Name>UpdatePolicyTypes</Name>
+			<Description>Update PolicyTypes</Description>
+			<CreatedBy>sysadmin</CreatedBy>
+			<CreationDate>2019-02-12T13:57:52.296</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="ECF4BB0E-B87F-A1E9-8BB1-BF265928E50C"
+				/>
+			</Entity>
+		</EntityWebServiceUpdateOperation>
+	</UpdateOperation>
+</EntityWebServicesBuildingBlock>

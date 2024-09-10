@@ -1,0 +1,35 @@
+
+<ActivityflowBuildingBlock
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.activityflow.ActivityflowBuildingBlock"
+	typeVersion="193b483e-a3b1-11ec-b909-0242ac120002"
+	RuntimeDocumentID="28DFEB6B-98A5-A1EF-9AD3-8D517E7A89EC">
+	<DocumentID>28DFEB6B-98A5-A1EF-9AD3-8D517E7A49EC</DocumentID>
+	<Name>ActivityFlow</Name>
+	<Description>ActivityFlow</Description>
+	<CreatedBy>cn=otadmin@otds.admin,cn=organizational users,o=system,cn=cordys,cn=AWP242Inst,o=opentext.net</CreatedBy>
+	<CreationDate>2024-09-05T06:15:31.34</CreationDate>
+	<Notes></Notes>
+	<Activityflows/>
+	<Entity>
+		<uri
+			id="28DFEB6B-98A5-A1EF-9AD3-8D517E7DC9EC"
+		/>
+	</Entity>
+	<InboxTask/>
+	<InlinedEntities/>
+	<OwnedActions>
+		<ActivityflowStaticAction
+			type="com.cordys.entity.buildingblocks.activityflow.ActivityflowStaticAction"
+			RuntimeDocumentID="63D668B1FD884D818B6864637E3256B6">
+			<DocumentID>28DFEB6B-98A5-A1EF-9AD3-8D517E79C9EC</DocumentID>
+			<Name>Initiateactivityflow</Name>
+			<Description>Initiate activity flow</Description>
+			<CreatedBy>cn=otadmin@otds.admin,cn=organizational users,o=system,cn=cordys,cn=AWP242Inst,o=opentext.net</CreatedBy>
+			<CreationDate>2024-09-05T06:15:31.326</CreationDate>
+			<Notes></Notes>
+		</ActivityflowStaticAction>
+	</OwnedActions>
+	<Properties/>
+	<Relationships/>
+</ActivityflowBuildingBlock>

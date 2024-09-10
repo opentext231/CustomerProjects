@@ -1,0 +1,20 @@
+
+<WebSource
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.cws.documenttypes.websource.WebSource"
+	RuntimeDocumentID="98FA9BBD-851C-A1EF-9A75-5BF6EB9A5A11">
+	<DocumentID>98FA9BBD-851C-A1EF-9A75-5BF6EB9A1A11</DocumentID>
+	<Name>PolicyWeb</Name>
+	<Description>PolicyWeb</Description>
+	<CreatedBy>Joe Lewis</CreatedBy>
+	<CreationDate>2024-09-03T09:25:41.668</CreationDate>
+	<Notes/>
+	<NamespacePrefix></NamespacePrefix>
+	<SourceFolder>
+		<uri
+			id="98FA9BBD-851C-A1EF-9A75-5BF6EB9B1A11"
+			path="Policy Project/policyweb"
+			type="com.cordys.cws.runtime.types.folder.StudioFolder"
+		/>
+	</SourceFolder>
+</WebSource>

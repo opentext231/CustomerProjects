@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="ECF4BB0E-B87F-A1E9-8BB2-1F143972E50C">
+	<DocumentID>ECF4BB0E-B87F-A1E9-8BB2-1F143972A50C</DocumentID>
+	<Name>ECF4BB0E-B87F-A1E9-8BB2-1F143972A50C</Name>
+	<Description>Policy</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2019-02-12T13:27:39.909</CreationDate>
+	<Notes/>
+	<DefaultText>Policy</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="ECF4BB0E-B87F-A1E9-8BB1-AF99C644650C"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="ECF4BB0E-B87F-A1E9-8BB2-1F143973250C"
+		/>
+	</Translations>
+</TextIdentifier>

@@ -1,0 +1,104 @@
+
+<Project
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.cws.documenttypes.project.Project"
+	typeVersion="0019B980-5ADC-71DF-9C5A-1C9DE0779704"
+	RuntimeDocumentID="ECF4BB0E-B87F-A1E9-8BB1-AF99C644250C">
+	<DocumentID>ECF4BB0E-B87F-A1E9-8BB1-AF99C643E50C</DocumentID>
+	<Name>Policy Project</Name>
+	<Description>Policy Project</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2019-02-12T13:04:43.696</CreationDate>
+	<Notes/>
+	<NamespacePrefix></NamespacePrefix>
+	<Configurations/>
+	<ISVPackageInfo>
+		<ISVPackageInfo
+			type="com.cordys.cws.packaging.isvp.ISVPackageInfo"
+			typeVersion="00215A62-2E6A-11E2-EEB7-903C43CFF084"
+			RuntimeDocumentID="ECF4BB0E-B87F-A1E9-8BB1-AF99C647250C">
+			<DocumentID>ECF4BB0E-B87F-A1E9-8BB1-AF99C646E50C</DocumentID>
+			<Name>Opentext Policy Project</Name>
+			<Description>Opentext Policy Project</Description>
+			<CreatedBy>sysadmin</CreatedBy>
+			<CreationDate>2019-02-12T13:04:43.696</CreationDate>
+			<Notes/>
+			<BuildNumber>0</BuildNumber>
+			<GenerateModelPackage>false</GenerateModelPackage>
+			<ISVPackageFileName>Opentext Policy Project</ISVPackageFileName>
+			<ISVPackageOwner>Opentext</ISVPackageOwner>
+			<PackageForRuntime>true</PackageForRuntime>
+			<PostISVLoaderInformation/>
+			<Product>Policy Project</Product>
+			<SupportedDeploymentSpaces
+				xmlns:cws="http://schemas.cordys.com/cws/1.0"
+				cws:type="collection:string">
+				<cws:item>SHARED</cws:item>
+				<cws:item>ORGANIZATION</cws:item>
+			</SupportedDeploymentSpaces>
+			<Version>20.4</Version>
+			<LicenseAgreement/>
+			<ThirdPartyAgreement/>
+		</ISVPackageInfo>
+	</ISVPackageInfo>
+	<RuntimeQualifiedName/>
+	<SourceFolder>
+		<uri
+			id="98FA9BBD-851C-A1EB-8956-41B8B1D3D970"
+			path="Policy Project"
+			type="com.cordys.cws.runtime.types.folder.StudioFolder"
+		/>
+	</SourceFolder>
+	<_AddOns>
+		<TranslationInformation
+			type="com.cordys.translation.TranslationInformation"
+			typeVersion="b81bb9b4-8af7-470f-a5fa-864be49acb9d"
+			RuntimeDocumentID="ECF4BB0E-B87F-A1E9-8BB1-AF99C644A50C">
+			<DocumentID>ECF4BB0E-B87F-A1E9-8BB1-AF99C644650C</DocumentID>
+			<Name>TranslationInformation</Name>
+			<Description/>
+			<CreatedBy>sysadmin</CreatedBy>
+			<CreationDate>2019-02-12T13:04:43.695</CreationDate>
+			<Notes/>
+			<LanguagePacks>
+				<LanguagePack
+					type="com.cordys.translation.LanguagePack"
+					typeVersion="11456b87-q895-32f2-584q-58f3tlm2so65"
+					RuntimeDocumentID="ECF4BB0E-B87F-A1E9-8BB1-AF99C645A50C">
+					<DocumentID>ECF4BB0E-B87F-A1E9-8BB1-AF99C645650C</DocumentID>
+					<Name>en-US</Name>
+					<Description/>
+					<CreatedBy>sysadmin</CreatedBy>
+					<CreationDate>2019-02-12T13:04:43.696</CreationDate>
+					<Notes/>
+					<Language>English - United States</Language>
+					<Texts>
+						<uri
+							id="ECF4BB0E-B87F-A1E9-8BB1-AF99C645E50C"
+							path="Policy Project/en-US_ECF4BB0E-B87F-A1E9-8BB1-AF99C645E50C"
+							type="com.cordys.cws.associations.MergeableAssociation"
+						/>
+					</Texts>
+					<TranslationInformation>
+						<uri
+							id="ECF4BB0E-B87F-A1E9-8BB1-AF99C644650C"
+						/>
+					</TranslationInformation>
+				</LanguagePack>
+			</LanguagePacks>
+			<ProjectLanguage>
+				<uri
+					id="ECF4BB0E-B87F-A1E9-8BB1-AF99C645650C"
+				/>
+			</ProjectLanguage>
+			<Texts>
+				<uri
+					id="ECF4BB0E-B87F-A1E9-8BB1-AF99C644E50C"
+					path="Policy Project/TranslationInformation_ECF4BB0E-B87F-A1E9-8BB1-AF99C644E50C"
+					type="com.cordys.cws.associations.MergeableAssociation"
+				/>
+			</Texts>
+			<TranslationInformation/>
+		</TranslationInformation>
+	</_AddOns>
+</Project>

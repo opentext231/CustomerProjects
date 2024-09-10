@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="ECF4BB0E-B87F-A1E9-8C12-45C9F59BE50C">
+	<DocumentID>ECF4BB0E-B87F-A1E9-8C12-45C9F59BA50C</DocumentID>
+	<Name>ECF4BB0E-B87F-A1E9-8C12-45C9F59BA50C</Name>
+	<Description>Attachments</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2019-02-14T11:11:15.26</CreationDate>
+	<Notes/>
+	<Text>Attachments</Text>
+	<Language>
+		<uri
+			id="ECF4BB0E-B87F-A1E9-8BB1-AF99C645650C"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="ECF4BB0E-B87F-A1E9-8C12-45C9F59B250C"
+		/>
+	</TextIdentifier>
+</TranslatedText>

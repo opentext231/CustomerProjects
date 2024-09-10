@@ -1,0 +1,89 @@
+
+<EntityWebServicesBuildingBlock
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.webservices.EntityWebServicesBuildingBlock"
+	typeVersion="8D86B054-F133-428B-8211-187822A0B501"
+	RuntimeDocumentID="ECF4BB0E-B87F-A1E9-8BB3-71D4C341250C">
+	<DocumentID>ECF4BB0E-B87F-A1E9-8BB3-71D4C340E50C</DocumentID>
+	<Name>Operations</Name>
+	<Description>Webservice Operations</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2019-02-12T13:57:13.532</CreationDate>
+	<Notes/>
+	<CreateOperation>
+		<EntityWebServiceCreateOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceCreateOperation"
+			RuntimeDocumentID="ECF4BB0E-B87F-A1E9-8BB3-71D4C340650C">
+			<DocumentID>ECF4BB0E-B87F-A1E9-8BB3-71D4C340250C</DocumentID>
+			<Name>CreateCustomer</Name>
+			<Description>Create Customer</Description>
+			<CreatedBy>sysadmin</CreatedBy>
+			<CreationDate>2019-02-12T13:57:13.532</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="ECF4BB0E-B87F-A1E9-8BB1-F907ACB1650C"
+				/>
+			</Entity>
+		</EntityWebServiceCreateOperation>
+	</CreateOperation>
+	<DeleteOperation>
+		<EntityWebServiceDeleteOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceDeleteOperation"
+			RuntimeDocumentID="ECF4BB0E-B87F-A1E9-8BB3-71D4C33EE50C">
+			<DocumentID>ECF4BB0E-B87F-A1E9-8BB3-71D4C33EA50C</DocumentID>
+			<Name>DeleteCustomer</Name>
+			<Description>Delete Customer</Description>
+			<CreatedBy>sysadmin</CreatedBy>
+			<CreationDate>2019-02-12T13:57:13.532</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="ECF4BB0E-B87F-A1E9-8BB1-F907ACB1650C"
+				/>
+			</Entity>
+		</EntityWebServiceDeleteOperation>
+	</DeleteOperation>
+	<Entity>
+		<uri
+			id="ECF4BB0E-B87F-A1E9-8BB1-F907ACB1650C"
+		/>
+	</Entity>
+	<FindOperations/>
+	<Original/>
+	<ReadOperation>
+		<EntityWebServiceReadOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceReadOperation"
+			RuntimeDocumentID="ECF4BB0E-B87F-A1E9-8BB3-71D4C33FE50C">
+			<DocumentID>ECF4BB0E-B87F-A1E9-8BB3-71D4C33FA50C</DocumentID>
+			<Name>ReadCustomer</Name>
+			<Description>Read Customer</Description>
+			<CreatedBy>sysadmin</CreatedBy>
+			<CreationDate>2019-02-12T13:57:13.532</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="ECF4BB0E-B87F-A1E9-8BB1-F907ACB1650C"
+				/>
+			</Entity>
+		</EntityWebServiceReadOperation>
+	</ReadOperation>
+	<RelationshipOperations/>
+	<UpdateOperation>
+		<EntityWebServiceUpdateOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceUpdateOperation"
+			RuntimeDocumentID="ECF4BB0E-B87F-A1E9-8BB3-71D4C33F650C">
+			<DocumentID>ECF4BB0E-B87F-A1E9-8BB3-71D4C33F250C</DocumentID>
+			<Name>UpdateCustomer</Name>
+			<Description>Update Customer</Description>
+			<CreatedBy>sysadmin</CreatedBy>
+			<CreationDate>2019-02-12T13:57:13.532</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="ECF4BB0E-B87F-A1E9-8BB1-F907ACB1650C"
+				/>
+			</Entity>
+		</EntityWebServiceUpdateOperation>
+	</UpdateOperation>
+</EntityWebServicesBuildingBlock>
