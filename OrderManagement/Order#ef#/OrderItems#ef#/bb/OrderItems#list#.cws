@@ -4,11 +4,11 @@
 	type="com.cordys.entity.buildingblocks.worklist.Worklist"
 	RuntimeDocumentID="28DFEB6B-98A5-A1EF-9AD3-943F811809EC">
 	<DocumentID>28DFEB6B-98A5-A1EF-9AD3-943F8117C9EC</DocumentID>
-	<Name>DefaultList</Name>
-	<Description>DefaultList</Description>
+	<Name>OrderItems</Name>
+	<Description>OrderItems</Description>
 	<CreatedBy>cn=otadmin@otds.admin,cn=organizational users,o=system,cn=cordys,cn=AWP242Inst,o=opentext.net</CreatedBy>
 	<CreationDate>2024-09-05T06:16:25.283</CreationDate>
-	<Notes></Notes>
+	<Notes/>
 	<ActionBarId></ActionBarId>
 	<CardViewDefinition></CardViewDefinition>
 	<ColumnWidth>0</ColumnWidth>
@@ -47,17 +47,17 @@
 		<TranslatableText
 			type="com.cordys.translation.TranslatableText"
 			typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
-			RuntimeDocumentID="28DFEB6B-98A5-A1EF-9AD3-943F811689EC">
-			<DocumentID>28DFEB6B-98A5-A1EF-9AD3-943F811649EC</DocumentID>
-			<Name>28DFEB6B-98A5-A1EF-9AD3-943F811649EC</Name>
-			<Description>28DFEB6B-98A5-A1EF-9AD3-943F811649EC</Description>
-			<CreatedBy>cn=otadmin@otds.admin,cn=organizational users,o=system,cn=cordys,cn=AWP242Inst,o=opentext.net</CreatedBy>
-			<CreationDate>2024-09-05T06:16:25.283</CreationDate>
-			<Notes></Notes>
-			<DeveloperText>Default List</DeveloperText>
+			RuntimeDocumentID="0242ac13-0003-a1ef-9bd0-bcfbd0fa8599">
+			<DocumentID>0242ac13-0003-a1ef-9bd0-bcfbd0eb8599</DocumentID>
+			<Name>0242ac13-0003-a1ef-9bd0-bcfbd0eb8599</Name>
+			<Description>0242ac13-0003-a1ef-9bd0-bcfbd0eb8599</Description>
+			<CreatedBy>sysadmin</CreatedBy>
+			<CreationDate>2024-09-10T09:47:31.364</CreationDate>
+			<Notes/>
+			<DeveloperText>OrderItems</DeveloperText>
 			<Identifier>
 				<uri
-					id="28DFEB6B-98A5-A1EF-9AD3-8D517E84C9EC"
+					id="28DFEB6B-98A5-A1EF-9AD3-8D517EA0C9EC"
 				/>
 			</Identifier>
 		</TranslatableText>
@@ -72,7 +72,7 @@
 			<Description>FilterCriteria</Description>
 			<CreatedBy>cn=otadmin@otds.admin,cn=organizational users,o=system,cn=cordys,cn=AWP242Inst,o=opentext.net</CreatedBy>
 			<CreationDate>2024-09-05T06:16:25.285</CreationDate>
-			<Notes></Notes>
+			<Notes/>
 			<EncodedExpression></EncodedExpression>
 			<ErrorMessage></ErrorMessage>
 			<HumanExpression></HumanExpression>
@@ -111,7 +111,7 @@
 			<Description>Untitled UsesAssociation</Description>
 			<CreatedBy>cn=otadmin@otds.admin,cn=organizational users,o=system,cn=cordys,cn=AWP242Inst,o=opentext.net</CreatedBy>
 			<CreationDate>2024-09-05T06:16:25.283</CreationDate>
-			<Notes></Notes>
+			<Notes/>
 		</UsesAssociation>
 	</UsesAssociation>
 	<WorklistColumns>
@@ -124,7 +124,7 @@
 			<Description>Untitled WorklistColumn</Description>
 			<CreatedBy>cn=otadmin@otds.admin,cn=organizational users,o=system,cn=cordys,cn=AWP242Inst,o=opentext.net</CreatedBy>
 			<CreationDate>2024-09-05T06:16:25.286</CreationDate>
-			<Notes></Notes>
+			<Notes/>
 			<ColumnAlignment>0</ColumnAlignment>
 			<ColumnLabel></ColumnLabel>
 			<DataType>Text</DataType>
@@ -149,7 +149,7 @@
 					<Description>28DFEB6B-98A5-A1EF-9AD3-943F811549EC</Description>
 					<CreatedBy>cn=otadmin@otds.admin,cn=organizational users,o=system,cn=cordys,cn=AWP242Inst,o=opentext.net</CreatedBy>
 					<CreationDate>2024-09-05T06:16:25.287</CreationDate>
-					<Notes></Notes>
+					<Notes/>
 					<NumberOfIntermediateRelationships>0</NumberOfIntermediateRelationships>
 					<IntermediateRelationships/>
 					<Object>
@@ -198,7 +198,7 @@
 			<Description>Untitled WorklistColumn (1)</Description>
 			<CreatedBy>cn=otadmin@otds.admin,cn=organizational users,o=system,cn=cordys,cn=AWP242Inst,o=opentext.net</CreatedBy>
 			<CreationDate>2024-09-05T06:16:25.286</CreationDate>
-			<Notes></Notes>
+			<Notes/>
 			<ColumnAlignment>0</ColumnAlignment>
 			<ColumnLabel></ColumnLabel>
 			<DataType>Integer</DataType>
@@ -223,7 +223,7 @@
 					<Description>28DFEB6B-98A5-A1EF-9AD3-943F811449EC</Description>
 					<CreatedBy>cn=otadmin@otds.admin,cn=organizational users,o=system,cn=cordys,cn=AWP242Inst,o=opentext.net</CreatedBy>
 					<CreationDate>2024-09-05T06:16:25.279</CreationDate>
-					<Notes></Notes>
+					<Notes/>
 					<NumberOfIntermediateRelationships>0</NumberOfIntermediateRelationships>
 					<IntermediateRelationships/>
 					<Object>
@@ -272,7 +272,7 @@
 			<Description>Untitled WorklistColumn (2)</Description>
 			<CreatedBy>cn=otadmin@otds.admin,cn=organizational users,o=system,cn=cordys,cn=AWP242Inst,o=opentext.net</CreatedBy>
 			<CreationDate>2024-09-05T06:16:25.285</CreationDate>
-			<Notes></Notes>
+			<Notes/>
 			<ColumnAlignment>2</ColumnAlignment>
 			<ColumnLabel></ColumnLabel>
 			<DataType>Currency</DataType>
@@ -297,7 +297,7 @@
 					<Description>28DFEB6B-98A5-A1EF-9AD3-943F811349EC</Description>
 					<CreatedBy>cn=otadmin@otds.admin,cn=organizational users,o=system,cn=cordys,cn=AWP242Inst,o=opentext.net</CreatedBy>
 					<CreationDate>2024-09-05T06:16:25.281</CreationDate>
-					<Notes></Notes>
+					<Notes/>
 					<NumberOfIntermediateRelationships>0</NumberOfIntermediateRelationships>
 					<IntermediateRelationships/>
 					<Object>
@@ -346,7 +346,7 @@
 			<Description>Untitled WorklistColumn (3)</Description>
 			<CreatedBy>cn=otadmin@otds.admin,cn=organizational users,o=system,cn=cordys,cn=AWP242Inst,o=opentext.net</CreatedBy>
 			<CreationDate>2024-09-05T06:16:25.282</CreationDate>
-			<Notes></Notes>
+			<Notes/>
 			<ColumnAlignment>2</ColumnAlignment>
 			<ColumnLabel></ColumnLabel>
 			<DataType>Currency</DataType>
@@ -371,7 +371,7 @@
 					<Description>28DFEB6B-98A5-A1EF-9AD3-943F811249EC</Description>
 					<CreatedBy>cn=otadmin@otds.admin,cn=organizational users,o=system,cn=cordys,cn=AWP242Inst,o=opentext.net</CreatedBy>
 					<CreationDate>2024-09-05T06:16:25.286</CreationDate>
-					<Notes></Notes>
+					<Notes/>
 					<NumberOfIntermediateRelationships>0</NumberOfIntermediateRelationships>
 					<IntermediateRelationships/>
 					<Object>
